@@ -1,6 +1,6 @@
 # skills section data
 
 label: Ability
-id : cs
-aspects: GitHub, MATLAB, C++, Java, javascript, React, HTML, CSS, Python, LaTeX, Adobe Tools
-percentage: 100, 90, 85, 45, 70, 75, 75, 45, 70, 85, 80
+id: cs
+aspects: GitHub, MATLAB, C++, Java, TypeScript, Angular, NestJS, React, HTML, CSS, Python, LaTeX, Adobe Tools
+percentage: 100, 80, 65, 45, 90, 95, 95, 70, 80, 80, 70, 70, 65
