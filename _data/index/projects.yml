@@ -5,7 +5,7 @@
   i18n: C++
   gh_user: TimVanMourik
   repo: Porcupine
-  url: https://timvanmourik.github.io/Porcupupine
+  url: https://timvanmourik.github.io/Porcupine
   img: /static/assets/img/landing/porcupine.png
   desc: Porcupine is a visual programming tool for automating analysis creations
 
@@ -47,4 +47,3 @@
   url: https://giraffe.tools/porcupine/TimVanMourik/LayerAttention
   img: /static/assets/img/landing/pipeline.png
   desc: Layer specific fMRI analysis pipelines on a visual attention task
-

@@ -2,6 +2,34 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
+    detail: Roseman Labs
+    i18n: company_c
+  desc:
+    detail: Programmer, Team Lead
+    i18n: company_c_desc
+  date:
+    detail: Nov. 2022
+    i18n: company_c_date
+  job:
+    detail: Senior Full Stack Developer
+    i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
+    detail: CTcue, IQVIA
+    i18n: company_b
+  desc:
+    detail: Programmer, Team Lead
+    i18n: company_b_desc
+  date:
+    detail: Jan. 2020
+    i18n: company_b_date
+  job:
+    detail: Full Stack Developer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
     detail: Donders Institute
     i18n: company_a
   desc:
@@ -12,7 +40,7 @@
     i18n: company_a_date
   job:
     detail: PostDoc
-    i18n: company_b_job
+    i18n: company_a_job
   icon: fa-plus-square
 
 - name:
