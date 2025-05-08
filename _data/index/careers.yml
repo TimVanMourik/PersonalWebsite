@@ -11,7 +11,7 @@
     detail: Nov. 2022
     i18n: company_c_date
   job:
-    detail: Senior Full Stack Developer
+    detail: Team Lead and Senior Full Stack Developer
     i18n: company_c_job
   icon: fa-plus-square
 
@@ -25,7 +25,7 @@
     detail: Jan. 2020
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Full Stack Developer, Team Lead from 2022
     i18n: company_b_job
   icon: fa-plus-square
 
@@ -39,7 +39,7 @@
     detail: Feb. 2018
     i18n: company_a_date
   job:
-    detail: PostDoc
+    detail: PostDoc and Lead Developer
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -53,7 +53,7 @@
     detail: Feb. 2014
     i18n: company_a_date
   job:
-    detail: PhD Student
+    detail: PhD Researcher in Software for Neuroimaging
     i18n: company_a_job
   icon: fa-plus-square
 
