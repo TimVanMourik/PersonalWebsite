@@ -2,5 +2,5 @@
 
 label: Ability
 id: cs
-aspects: TypeScript, Angular, NestJS, React, HTML, CSS, Python, LaTeX, Adobe Tools, GitHub, MATLAB, C++, Java, Rust
-percentage: 90, 95, 95, 70, 80, 80, 70, 70, 65, 100, 80, 65, 45, 20
+aspects: TypeScript, Angular, NestJS, React, HTML, CSS, Python, LaTeX, Adobe Tools, GitHub, MATLAB, C++, Rust, Java
+percentage: 90, 95, 95, 70, 80, 80, 70, 70, 65, 100, 80, 65, 25, 45
